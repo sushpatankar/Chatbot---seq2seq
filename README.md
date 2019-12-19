@@ -6,6 +6,7 @@ optimization (tried using Adam but model perfromed very poorly) .
 # Dataset
 https://www.microsoft.com/en-us/research/project/metalwoz/
 
-#Contributors
+# Contributors
 Sushant Patankar, Computer Science Department, Colorado State University
+
 Brandon Jungen, Computer Science Department, Colorado State University
